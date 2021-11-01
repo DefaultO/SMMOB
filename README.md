@@ -1,0 +1,2 @@
+# SMMOB
+Simple-MMO-Bot
