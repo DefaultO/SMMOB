@@ -1,6 +1,7 @@
 # SMMOB
-Simple-MMO-Bot
+The probably only reliable Simple-MMO Bot out there. Kept private for our own enjoyment.
 
+# TODO
 - [x] Bypass Captcha
 - [x] Auto Step
 - [x] Auto Fight 
@@ -14,3 +15,4 @@ Simple-MMO-Bot
 - [ ] Discord Bot
 - [ ] Day/Night Cycle
 - [ ] Stop/Continue Bot Sessions
+- [ ] Clean Code
