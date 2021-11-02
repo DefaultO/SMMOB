@@ -8,6 +8,8 @@ The probably only reliable Simple-MMO Bot out there. Kept private for our own en
 - [ ] Auto Farm
 -- Code for it exists but has to be fixed
 - [ ] Auto Battle
+- [ ] Auto Quest
+- [ ] Auto Job
 - [ ] Log Stats
 - [ ] Auto Sell
 - [ ] Auto Collect
