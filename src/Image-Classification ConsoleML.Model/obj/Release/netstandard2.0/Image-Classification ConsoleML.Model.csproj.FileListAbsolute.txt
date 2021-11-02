@@ -1,0 +1,10 @@
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\bin\Release\netstandard2.0\Image-Classification ConsoleML.Model.deps.json
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\bin\Release\netstandard2.0\Image-Classification ConsoleML.Model.dll
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\bin\Release\netstandard2.0\Image-Classification ConsoleML.Model.pdb
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.AssemblyInfoInputs.cache
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.AssemblyInfo.cs
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.csproj.CoreCompileInputs.cache
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.dll
+C:\Users\breit\source\repos\SMMOB\Image-Classification ConsoleML.Model\obj\Release\netstandard2.0\Image-Classification ConsoleML.Model.pdb
