@@ -228,7 +228,6 @@ namespace SMMOB
             this.password.PasswordChar = '*';
             this.password.Size = new System.Drawing.Size(153, 20);
             this.password.TabIndex = 1;
-            this.password.Text = "lolipop2001";
             // 
             // email
             // 
@@ -236,7 +235,6 @@ namespace SMMOB
             this.email.Name = "email";
             this.email.Size = new System.Drawing.Size(179, 20);
             this.email.TabIndex = 0;
-            this.email.Text = "breitereduard@gmail.com";
             // 
             // browser
             // 
